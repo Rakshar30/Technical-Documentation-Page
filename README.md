@@ -1,0 +1,1 @@
+TECHNICAL DOCUMENTATION PAGE : Created A Responsive Technical Documentation Page Using HTML And CSS. The Page Includes A Fixed Sidebar With Navigation Links And A Main Content Area That Explains Key Programming Concepts. It Follows A Clean And Structured Layout For Easy Readability And User Experience.
